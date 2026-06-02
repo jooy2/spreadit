@@ -1,6 +1,6 @@
 # 🔌 Google Apps Script Spreadit
 
-> [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jooy2/spreadit/blob/main/LICENSE) [![Followers](https://img.shields.io/github/followers/jooy2?style=social)](https://github.com/jooy2) ![Stars](https://img.shields.io/github/stars/jooy2/google-apps-script-sheetio?style=social) ![Line Count](https://img.shields.io/tokei/lines/github/jooy2/google-apps-script-sheetio) ![Commit Count](https://img.shields.io/github/commit-activity/y/jooy2/google-apps-script-sheetio) ![Repo Size](https://img.shields.io/github/repo-size/jooy2/google-apps-script-sheetio)
+> [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jooy2/spreadit/blob/main/LICENSE) [![Followers](https://img.shields.io/github/followers/jooy2?style=social)](https://github.com/jooy2) ![Stars](https://img.shields.io/github/stars/jooy2/google-apps-script-sheetio?style=social) ![Commit Count](https://img.shields.io/github/commit-activity/y/jooy2/google-apps-script-sheetio) ![Repo Size](https://img.shields.io/github/repo-size/jooy2/google-apps-script-sheetio)
 
 Easy to use **[Google Apps Script](https://script.google.com)** [Spreadsheet API](https://developers.google.com/apps-script/reference/spreadsheet) (using Method chaining)
 
