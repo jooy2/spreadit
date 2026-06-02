@@ -12,6 +12,9 @@ node_modules/**/.*
 .github/**
 .github/**/.*/**
 .github/**/.*
+.claude/**
+.claude/**/.*/**
+.claude/**/.*
 README.md
 Thumbs.db
 .DS_Store
